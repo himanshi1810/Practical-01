@@ -24,4 +24,3 @@ else
 {
     Console.WriteLine("Division by zero is not allowed.");
 }
-
